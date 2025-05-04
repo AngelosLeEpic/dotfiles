@@ -1,0 +1,11 @@
+dotfiles -
+make custom rofi script to change wallpapers via rofi
+	- use built script to in scripts/ to also update wal colors which also updates terminals
+
+customise style.css for waybar to use the imports from wal
+
+nvim -
+	TODO
+
+
+music player?
